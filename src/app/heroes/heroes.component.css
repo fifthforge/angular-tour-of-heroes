@@ -6,6 +6,12 @@
     width: 15em;
 }
 
+.delete {
+    position: relative;
+    left: -1.5rem;
+    top: -2rem;
+}
+
 .heroes li {
     position: relative;
     cursor: pointer;
